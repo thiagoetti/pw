@@ -1,0 +1,15 @@
+/* 
+3 formas de chamar SELETORES
+class .nameclasse
+id #nomeid
+nome_da_tag
+*/
+img{
+	margin: 0 auto;
+	display: block;
+}
+.centro{
+	text-align: center;
+}
+h5{
+	color: #F50808
